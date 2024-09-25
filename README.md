@@ -1,6 +1,12 @@
-# Mina zkApp: Tokenaccountstorage
+# Mina zkApp: TokenAccountStorage
 
 This template uses TypeScript.
+
+## How run storage tests
+
+```sh
+npm run storageTest
+```
 
 ## How to build
 
